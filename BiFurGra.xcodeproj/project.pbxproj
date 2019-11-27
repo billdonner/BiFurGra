@@ -24,6 +24,7 @@
 		88BA7997238EE84200760731 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		88BA799A238EE84200760731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88BA799C238EE84200760731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88BA79A2238EE87700760731 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		88BA7982238EE83E00760731 = {
 			isa = PBXGroup;
 			children = (
+				88BA79A2238EE87700760731 /* README.md */,
 				88BA798D238EE83E00760731 /* BiFurGra */,
 				88BA798C238EE83E00760731 /* Products */,
 			);
